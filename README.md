@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khulud Hussein</h1>
 <h3 align="center">A passionate data analyst from MN.</h3>
 
-- 🔭 I’m currently working on [Social Buzz Data Analysis](https://jovian.com/zaneyhuss/socialbuzz-data-analysis)
+- 🔭 I’m currently working on [Social Buzz Data Analysis](https://github.com/98Kh/98Kh.github.io/blob/main/accenture_forage.ipynb)
 
 - 👨‍💻 All of my projects are available at [https://github.com/98Kh/98Kh.github.io](https://github.com/98Kh/98Kh.github.io)
 
