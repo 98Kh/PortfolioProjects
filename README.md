@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Quantium Data Analytics](https://jovian.com/zaneyhuss/quantium-forage-project)
 
-- 👨‍💻 All of my projects are available at [https://github.com/98Kh/98Kh.github.io](https://github.com/98Kh/98Kh.github.io)
-
 - 📫 How to reach me **khusseinda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
