@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K. Hussein</h1>
-<h3 align="center">A passionate junior data analyst from MN.</h3>
+<h3 align="center">Data Analyst with background in administrative, skilled in SQL, Python and Microsoft Excel. </h3>
 
 - 🔭 I’m currently working on [Quantium Data Analytics](https://jovian.com/zaneyhuss/quantium-forage-project)
 
