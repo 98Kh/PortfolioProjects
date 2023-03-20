@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K. Hussein</h1>
 <h3 align="center">Data Analyst with background in administrative, skilled in SQL, Python and Microsoft Excel. </h3>
 
-- 🔭 I’m currently working on [Quantium Data Analytics](https://jovian.com/zaneyhuss/quantium-forage-project)
+- 🔭 I’m currently working on [Quantium Data Analytics]([https://jovian.com/zaneyhuss/quantium-forage-project](https://github.com/98Kh/Portfolio_Projects/blob/main/Supermarket_Data_Cleaning.ipynb))
 
 - 📫 How to reach me **khusseinda@gmail.com**
 
